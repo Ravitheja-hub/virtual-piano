@@ -57,7 +57,7 @@ An interactive virtual piano built using HTML, CSS, and JavaScript that allows u
 
 ## 🌍 Live Demo
 
-(Add your GitHub Pages link here after deployment)
+(https://github.com/Ravitheja-hub/virtual-piano)
 
 ---
 
